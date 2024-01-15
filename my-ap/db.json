@@ -1,0 +1,24 @@
+{
+  "feedbacks": [
+    {
+      "id": 2,
+      "text": "this is feedback item 2",
+      "rating": 9
+    },
+    {
+      "text": "this is new item",
+      "rating": "8",
+      "id": 4
+    },
+    {
+      "text": "this is new itemm",
+      "rating": 1,
+      "id": 5
+    },
+    {
+      "text": "helo hamaga salom",
+      "rating": 1,
+      "id": 6
+    }
+  ]
+}
